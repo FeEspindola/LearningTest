@@ -1,0 +1,23 @@
+{
+  "BannerTaxs": [
+    {
+      "ValueStart": 0,
+      "ValueEnd": 1903.98,
+      "Aliquot": 0
+    },
+    {
+      "ValueStart": 1903.99,
+      "ValueEnd": 2826.65,
+      "Aliquot": 7.5
+    },
+    {
+      "ValueStart": 2826.66,
+      "ValueEnd": 3751.05,
+      "Aliquot": 15
+    },
+    {
+      "ValueStart": 3751.06,
+      "Aliquot": 27.5
+    }
+  ]
+}
